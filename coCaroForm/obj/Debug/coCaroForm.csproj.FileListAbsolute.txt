@@ -1,0 +1,10 @@
+E:\PROJECTS\coCaroForm\coCaroForm\bin\Debug\coCaroForm.exe.config
+E:\PROJECTS\coCaroForm\coCaroForm\bin\Debug\coCaroForm.exe
+E:\PROJECTS\coCaroForm\coCaroForm\bin\Debug\coCaroForm.pdb
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.csprojAssemblyReference.cache
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.Properties.Resources.resources
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.csproj.GenerateResource.cache
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.csproj.CoreCompileInputs.cache
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.exe
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.pdb
+E:\PROJECTS\coCaroForm\coCaroForm\obj\Debug\coCaroForm.Form1.resources
